@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.906172d2.chunk.css",
+    "main.js": "/static/js/main.87bda894.chunk.js",
+    "main.js.map": "/static/js/main.87bda894.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e0fd9477.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e0fd9477.js.map",
+    "static/js/2.48cb15eb.chunk.js": "/static/js/2.48cb15eb.chunk.js",
+    "static/js/2.48cb15eb.chunk.js.map": "/static/js/2.48cb15eb.chunk.js.map",
+    "static/js/3.55ddcb60.chunk.js": "/static/js/3.55ddcb60.chunk.js",
+    "static/js/3.55ddcb60.chunk.js.map": "/static/js/3.55ddcb60.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.906172d2.chunk.css.map": "/static/css/main.906172d2.chunk.css.map",
+    "static/js/2.48cb15eb.chunk.js.LICENSE.txt": "/static/js/2.48cb15eb.chunk.js.LICENSE.txt",
+    "static/media/BioforgeLogo.bddee503.png": "/static/media/BioforgeLogo.bddee503.png",
+    "static/media/login.styles.scss": "/static/media/Login2.46e269a3.png",
+    "static/media/jbfh-logo.f6b94253.png": "/static/media/jbfh-logo.f6b94253.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0fd9477.js",
+    "static/js/2.48cb15eb.chunk.js",
+    "static/css/main.906172d2.chunk.css",
+    "static/js/main.87bda894.chunk.js"
+  ]
+}

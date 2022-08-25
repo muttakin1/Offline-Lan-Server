@@ -1,0 +1,20 @@
+$viewPortHeight:100vh;
+#CustomPaper{ 
+    .round-box{
+        min-height: calc(#{$viewPortHeight} - 460px);
+        margin: 30px auto;
+        max-width: 986px;
+        padding: 30px;
+        border-style: solid;
+        border-color: #55D0B3;
+        border-radius: 30px;
+        border-width: 0 20px;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        .papaer-title{
+            text-align: center;
+            font-size: 24px;
+            font-weight: 300;
+            margin-bottom: 40px;
+        }
+    }
+}
